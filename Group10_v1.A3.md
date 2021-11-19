@@ -1,7 +1,7 @@
 # Manitoba Provincial Parks
 
 ### API Description
-A simple API to provide some general information about the Manitoba Provincial Parks. Users can get a list of all the provincial parks in Manitoba, or get information about a specific park they might want to visit.
+A simple API to provide some general information about the Provincial Parks in Manitoba. Users can get a list of all the provincial parks in Manitoba, or get information about a specific park they might want to visit.
 
 ### Endpoints
 #### List All Parks
@@ -9,6 +9,7 @@ The user can get a list of all the provincial parks in Manitoba, as well as the 
 
 #### Park Information
 The user can get information about a specific provincial park using this request. Some of the information returned includes:
+- Park Name
 - Entry Fee
 - Park Hours
 - Location
